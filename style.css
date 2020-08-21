@@ -1,0 +1,13 @@
+body{
+
+    background-color: #ff6111
+
+}
+
+.header{
+
+     border:solid;
+     background-color: cadetblue;
+     justify-content: space-between;
+
+}
